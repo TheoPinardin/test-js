@@ -12,6 +12,7 @@ const item_list = [
     {id: 'manette', value: 39, weight: 1},
     {id: 'internet', value: 66, weight: 1},
 ];
+//// JAI FAIT CHANGEMENT
 
 // Ma version
 const getRandomElement = (arr, number) => arr.sort(() => 0.5 - Math.random()).slice(0,number);
